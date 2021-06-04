@@ -65,3 +65,23 @@
 //     console.log(per)
 // }
 // main()
+
+//Q5
+// function check(){
+//     var char=prompt("Enter a character")
+//     var name ="abcdefghijklmnopqrstuvwxyz";
+//     console.log(name.length)
+//     for(var i=0;i<name.length;i++){
+//         var charCheck=name[i]
+//         if(char==charCheck){
+//             console.log("Index is "+i)
+//             break
+//         }
+       
+//         else{
+//             "invalid  input"
+//         }
+//     }
+    
+// }
+// check()
