@@ -52,18 +52,19 @@
 //     var english=+prompt("Enter English marks")
 //     var maths=+prompt("Enter Maths marks")
 //     var computer=+prompt("Enter Computer marks")
-//     var avg=0;
-//     var per=0;
+    
+    
 //     function average(a,b,c){
-//         avg=a+b+c
-//         // return avg;
+//      var   avg =a+b+c
+//          return avg;
 //     }
-//     average(english,maths,computer)
+//     var avg =average(english,maths,computer)
 //     console.log(avg)
 //     function percentage(a){
-//         per=(a/300)*100;
+//      var  per=(a/300)*100;
+//      return per;
 //     }
-//     percentage(avg)
+//    var per= percentage(avg)
 //     console.log(per)
 // }
 // main()
