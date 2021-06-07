@@ -27,20 +27,22 @@
 // var a = 5; 
 // var b = 6; 
 // var c = 7; 
-// var s=0;
-// var area=0;
+
+
 // function one(a,b,c){
+//     var s=0;
 //      s = (a + b + c)/2;
 //      return s;
 // }
-// one(a,b,c)
+// var s = one(a,b,c);
 // console.log(s)
 
 // function two(a,b,c,s){
+//     var area=0;
 //     area=(s*((s-a)*(s-b)*(s-c)));
 //    return area;
 // }
-// two(a,b,c,s)
+// var area=two(a,b,c,s)
 // console.log(area)
 
 //Q4
